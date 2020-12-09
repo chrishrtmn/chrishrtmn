@@ -2,4 +2,4 @@
 
 🔭 I’m currently working on Remote Jamstack, RecurringCredit, and my [personal website](https://chrishrtmn.com).
 
-🌱 I’m currently learning Next.js, GraphCMS, FaunaDB, and more!
+🌱 I’m currently learning Next.js, GraphCMS, Firebase/Firestore, FaunaDB, and more!
