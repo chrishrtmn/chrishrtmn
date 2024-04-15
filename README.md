@@ -3,7 +3,7 @@
 I’m interested in:
 
 - React / Next.js
-- Python
 - Elixir / Phoenix LiveView
+- Python
 - Tailwind CSS
 - Local LLMs
