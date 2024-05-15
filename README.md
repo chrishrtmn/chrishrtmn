@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hey there 👋
 
-I’m interested in:
+Interested in:
 
-- React / Next.js
-- Elixir / Phoenix LiveView
+- Next.js
+- Elixir
 - Python
 - Tailwind CSS
-- Local LLMs
+- AI & LLM Tools
