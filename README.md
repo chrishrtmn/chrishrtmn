@@ -2,8 +2,9 @@
 
 Interested in:
 
-- Next.js
+- UI & Design
+- Tailwind CSS
+- React.js
 - Elixir
 - Python
-- Tailwind CSS
-- AI & LLM Tools
+- AI & LLMs
