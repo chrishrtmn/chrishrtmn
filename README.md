@@ -2,9 +2,8 @@
 
 Interested in:
 
-- UI & Design
-- Tailwind CSS
-- React.js
-- Elixir
+- React.js, Next.js
+- Tailwind CSS, UI Components
+- AI, LLMs
+- Elixir, Phoenix
 - Python
-- AI & LLMs
